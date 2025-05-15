@@ -28,7 +28,9 @@ const CallRoomPage = () => {
   
   return (
     <>
-      <div ref={myMeeting} className='w-full h-screen bg-gray-100'></div>
+      <div ref={myMeeting} className='w-full h-screen bg-gray-100'>
+        
+      </div>
     </>
 )
 }
